@@ -1,7 +1,7 @@
 # stephenking
 tributepage
-<main>
-  <body><style>
+<html> 
+    <style>
     main{
   background-color:lightgrey;
 }
@@ -11,8 +11,10 @@ body{
   text-align: center;
   img-align: center;
     }</style>
+    <main>
+  <body>
 <title>Stephen King</title>
-<h1>Stephen King</title>
+<h1>Stephen King</h1
 <h2>Master of Horror</h2>
   <div id="img div"> <img id="image" src="https://cdn.pastemagazine.com/www/articles/2019/09/06/stephen-king.jpg" alt="Stephen King"><br>
     <img caption>America's Greatest Horror Author, 2019</img caption>
